@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Alan.
 
-Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas prácticas de diseño, seguridad y arquitectura, buscando siempre código limpio, escalable y mantenible.
+Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas prácticas, seguridad y código limpio.
 
 ### 💻 Tecnologías
 - ```Java```
