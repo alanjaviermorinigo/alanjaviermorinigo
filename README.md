@@ -4,10 +4,10 @@ Soy Java Backend Developer, trabajo en proyectos personales aplicando buenas pr√
 
 ## Tecnolog√≠as
 
-Java
-Spring Boot
-REST APIs
-Spring Security
+- Java
+- Spring Boot
+- REST APIs
+- Spring Security
 JSON Web Token (JWT)
 JPA/Hibernate
 SQL
