@@ -17,8 +17,8 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas prÃ
 - ```Linux```
 - ```Maven```
 - ```Docker```
-- ```Kubernetes```
 - ```Pipelines (CI/CD)```
+- ```Kubernetes```
 - ```Git, GitHub, GitLab```
 
 ### ğŸ”— Links
