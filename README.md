@@ -19,5 +19,5 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```Git, GitHub, GitLab```
 
 ### Links
-- Portfolio: 
-- Linkedin: 
+- 💼 Portfolio: 
+- 🌐 Linkedin: 
