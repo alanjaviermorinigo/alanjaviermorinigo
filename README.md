@@ -12,6 +12,8 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```SQL```
 - ```MySQL```
 - ```Swagger/OpenAPI```
+
+### 🛠️ Herramientas
 - ```Linux```
 - ```Docker```
 - ```Kubernetes```
