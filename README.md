@@ -23,4 +23,4 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 
 ### 🔗 Links
 - 💼 **Portfolio:** 
-- 🌐 **Linkedin:** 
+- 🌐 **Linkedin:** https://www.linkedin.com/in/alanjaviermorinigo/
