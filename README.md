@@ -17,10 +17,10 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```Linux```
 - ```Maven```
 - ```Docker```
-- ```Pipelines (CI/CD)```
+- ```(CI/CD) Pipelines```
 - ```Kubernetes```
 - ```Git, GitHub, GitLab```
 
 ### 🔗 Links
-- 💼 **Portfolio:** 
+- 💼 **Portfolio:** https://alanjaviermorinigo.github.io/
 - 🌐 **Linkedin:** https://www.linkedin.com/in/alanjaviermorinigo/
