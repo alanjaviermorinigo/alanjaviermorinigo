@@ -24,5 +24,5 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```Git, GitHub, GitLab```
 
 ### 🔗 Links
-- 💼 **Portfolio:** https://alanjaviermorinigo.github.io/
-- 🌐 **Linkedin:** https://www.linkedin.com/in/alanjaviermorinigo/
+- 💼 **Portfolio:** <a href="https://alanjaviermorinigo.github.io/" target="_blank">https://alanjaviermorinigo.github.io/</a>
+- 🌐 **Linkedin:** <a href="https://www.linkedin.com/in/alanjaviermorinigo/" target="_blank">https://www.linkedin.com/in/alanjaviermorinigo/</a>
