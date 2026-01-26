@@ -11,6 +11,9 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```JPA/Hibernate```
 - ```MySQL```
 - ```Swagger/OpenAPI```
+- ```HTML```
+- ```CSS```
+- ```JavaScript```
 
 ### 🛠️ Herramientas
 - ```Linux```
