@@ -9,7 +9,6 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr√
 - ```Spring Security```
 - ```JSON Web Token (JWT)```
 - ```JPA/Hibernate```
-- ```Swagger/OpenAPI```
 
 ### Frontend
 - ```HTML```
@@ -28,6 +27,7 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr√
 
 ### üõ†Ô∏è Controld & Build
 - ```Maven```
+- ```Swagger/OpenAPI```
 - ```Git```
 - ```GitHub```
 - ```GitLab```
