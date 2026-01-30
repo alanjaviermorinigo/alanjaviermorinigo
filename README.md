@@ -25,7 +25,7 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```Kubernetes```
 
 
-### 🛠️ Controld & Build
+### 🛠️ Control & Build
 - ```Maven```
 - ```Swagger/OpenAPI```
 - ```Git```
