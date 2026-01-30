@@ -2,7 +2,7 @@
 
 Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas prácticas, seguridad y código limpio.
 
-### 💻 Backend
+### Backend
 - ```Java```
 - ```Spring Boot```
 - ```REST APIs```
@@ -11,15 +11,15 @@ Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas pr�
 - ```JPA/Hibernate```
 - ```Swagger/OpenAPI```
 
-### 🛠️ Frontend
+### Frontend
 - ```HTML```
 - ```CSS```
 - ```JavaScript```
 
-### 🛠️ Base de Datos
+### Base de Datos
 - ```MySQL```
 
-### 🛠️ DevOps / Infra
+### DevOps / Infra
 - ```Linux```
 - ```Docker```
 - ```(CI/CD) Pipelines```
