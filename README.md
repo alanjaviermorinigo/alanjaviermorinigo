@@ -2,26 +2,35 @@
 
 Soy Backend Developer Java, trabajo en proyectos personales aplicando buenas prácticas, seguridad y código limpio.
 
-### 💻 Tecnologías
+### 💻 Backend
 - ```Java```
 - ```Spring Boot```
 - ```REST APIs```
 - ```Spring Security```
 - ```JSON Web Token (JWT)```
 - ```JPA/Hibernate```
-- ```MySQL```
 - ```Swagger/OpenAPI```
+
+### 🛠️ Frontend
 - ```HTML```
 - ```CSS```
 - ```JavaScript```
 
-### 🛠️ Herramientas
+### 🛠️ Base de Datos
+- ```MySQL```
+
+### 🛠️ DevOps / Infra
 - ```Linux```
-- ```Maven```
 - ```Docker```
 - ```(CI/CD) Pipelines```
 - ```Kubernetes```
-- ```Git, GitHub, GitLab```
+
+
+### 🛠️ Controld & Build
+- ```Maven```
+- ```Git```
+- ```GitHub```
+- ```GitLab```
 
 ### 🔗 Links
 - 💼 **Portfolio:** https://alanjaviermorinigo.github.io/
